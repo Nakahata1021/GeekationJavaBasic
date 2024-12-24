@@ -11,6 +11,7 @@ public class Variables {
 	    System.out.println(number1);
 	    System.out.println(number2);
 	    
+	   
 	    System.out.println("私の好きな整数は" + number1 +  "です。");
 	    System.out.println("私の好きな少数は" + number2 +  "です。");
 	    
